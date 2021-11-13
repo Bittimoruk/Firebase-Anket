@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625763540114",
+    "project_id": "anket-f7288",
+    "storage_bucket": "anket-f7288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625763540114:android:10fd9535b65ccbdd28da4b",
+        "android_client_info": {
+          "package_name": "com.example.anketfirebasedemo.anketfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625763540114-lip46gmsc994j7vjvuc5391p4vhcn63c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-fiUVORPGhOruk3f4CFnimlLZBhp5PrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625763540114-lip46gmsc994j7vjvuc5391p4vhcn63c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
